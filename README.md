@@ -1,4 +1,4 @@
-# Hostfully Property Booking API
+# Hostfully Booking API
 
 A Flask REST API for properties, guest bookings, and owner blocks. Dates are inclusive: a booking that shares its start or end day with a confirmed booking or block on the same property is rejected.
 
